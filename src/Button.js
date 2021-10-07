@@ -48,7 +48,7 @@ const StyledButton = styled.button`
   user-select: none;
   opacity: 1;
   margin: 0;
-  background: transparent;
+  background: goldenrod;
   border: 10px solid red;
   font-size: 20px;
   font-weight: ${typography.weight.extrabold};
